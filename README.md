@@ -74,7 +74,7 @@ Considering what I have learned so far. I've learned how to import modules like 
 
 The datasets for these Challenges are quite large. This was done purposefully to showcase one of the limits of Excel-based analysis. As data analysts, our first instinct is often to go straight to Excel, but creating scripts in Python can provide us with more powerful options for handling big data.
 
-Write one script for each of the provided datasets. Run each script separately to make sure that the code works for its respective dataset.
+Wrote one script for each of the provided datasets. Ran each script separately to make sure that the code works for its respective dataset.
 
 Always commit your work and back it up with pushes to GitHub. You don't want to lose hours of your hard work! Also make sure that your repo has a detailed README.md file.
 
