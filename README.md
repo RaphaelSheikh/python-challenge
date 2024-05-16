@@ -41,6 +41,7 @@ Your task is to create a Python script that analyzes the records to calculate ea
 - The greatest decrease in profits (date and amount) over the entire period
 
 Your analysis should align with the following results:
+
 ![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/7a597f23-2b85-416b-8572-9ad7e6f9bc41)
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
@@ -63,6 +64,7 @@ You will be given a set of poll data called election_data.csv. The dataset is co
 - The winner of the election based on popular vote
 
 Your analysis should align with the following results:
+
 ![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/4be8a895-b5e3-45d3-88ed-fffcfc5a2646)
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
