@@ -65,7 +65,7 @@ You will be given a set of poll data called election_data.csv. The dataset is co
 
 Your analysis should align with the following results:
 
-![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/4be8a895-b5e3-45d3-88ed-fffcfc5a2646)
+![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/86d159f9-65ec-4f9b-827c-a4a237da4904)
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
