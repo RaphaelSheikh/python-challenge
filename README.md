@@ -1,10 +1,10 @@
 # python-challenge
 
-Background
+##Background
 
 It's time to put away the Excel sheet and enter the world of programming with Python. In this assignment, you'll use the concepts you've learned to complete two Python challenges, PyBank and PyPoll. Both tasks present a real-world situation where your newly developed Python scripting skills come in handy.
 
-Before You Begin
+##Before You Begin
 Before starting the assignment, be sure to complete the following steps:
 
 1. Create a new repository for this project called python-challenge.
@@ -24,7 +24,7 @@ Before starting the assignment, be sure to complete the following steps:
 8. Push these changes to GitHub or GitLab.
 
 PyBank Instructions
-
+![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/61f50316-2b03-4faa-8243-829f36d611bc)
 
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
