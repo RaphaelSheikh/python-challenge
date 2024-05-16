@@ -85,3 +85,5 @@ Always commit your work and back it up with pushes to GitHub. You don't want to 
 - Python File Write (https://www.w3schools.com/python/python_file_write.asp)
 
 - Markdown-Here (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+- Markdown-Cheatsheet (https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
