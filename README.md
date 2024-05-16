@@ -42,7 +42,7 @@ Your task is to create a Python script that analyzes the records to calculate ea
 
 Your analysis should align with the following results:
 
-![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/7a597f23-2b85-416b-8572-9ad7e6f9bc41)
+![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/86d159f9-65ec-4f9b-827c-a4a237da4904)
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
@@ -65,7 +65,7 @@ You will be given a set of poll data called election_data.csv. The dataset is co
 
 Your analysis should align with the following results:
 
-![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/86d159f9-65ec-4f9b-827c-a4a237da4904)
+![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/7a597f23-2b85-416b-8572-9ad7e6f9bc41)
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
