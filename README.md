@@ -2,10 +2,10 @@
 
 ## Background
 
-It's time to put away the Excel sheet and enter the world of programming with Python. In this assignment, you'll use the concepts you've learned to complete two Python challenges, PyBank and PyPoll. Both tasks present a real-world situation where your newly developed Python scripting skills come in handy.
+It's time to put away the Excel sheet and enter the world of programming with Python. In this assignment, I used the concepts I've learned to complete two Python challenges, PyBank and PyPoll. Both tasks present a real-world situation where my newly developed Python scripting skills come in handy.
 
-## Before You Begin
-Before starting the assignment, be sure to complete the following steps:
+## Before I Begin
+Before starting the assignment, the following steps needs to be completed:
 
 1. Create a new repository for this project called python-challenge.
 
@@ -26,9 +26,9 @@ Before starting the assignment, be sure to complete the following steps:
 ## PyBank Instructions
 ![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/61f50316-2b03-4faa-8243-829f36d611bc)
 
-In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
+In this Challenge, I was tasked with creating a Python script to analyze the financial records of your company. I was given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
-Your task is to create a Python script that analyzes the records to calculate each of the following values:
+My task was to create a Python script that analyzes the records to calculate each of the following values:
 
 - The total number of months included in the dataset
 
@@ -40,18 +40,18 @@ Your task is to create a Python script that analyzes the records to calculate ea
 
 - The greatest decrease in profits (date and amount) over the entire period
 
-Your analysis should align with the following results:
+My analysis should align with the following results:
 
 ![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/86d159f9-65ec-4f9b-827c-a4a237da4904)
 
-In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+In addition, my final script should both print the analysis to the terminal and export a text file with the results.
 
 ## PyPoll Instructions
 ![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/5b1c4131-45be-4bf7-8541-12fbcad1ab80)
 
-In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
+In this Challenge, I am tasked with helping a small, rural town modernize its vote-counting process.
 
-You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following values:
+I will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". My task was to create a Python script that analyzes the votes and calculates each of the following values:
 
 - The total number of votes cast
 
@@ -67,16 +67,16 @@ Your analysis should align with the following results:
 
 ![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/7a597f23-2b85-416b-8572-9ad7e6f9bc41)
 
-In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+In addition, my final script should both print the analysis to the terminal and export a text file with the results.
 
 ## Hints and Considerations
-Consider what you've learned so far. You've learned how to import modules like csv. You’ve learned how to read and write files in various formats. You’ve learned how to store content in variables, lists, and dictionaries. You’ve learned how to iterate through basic data structures. And you’ve learned how to debug along the way. Using all that you've learned, try to break down your tasks into discrete mini-objectives.
+Considering what I have learned so far. I've learned how to import modules like csv. I've learned how to read and write files in various formats. I've learned how to store content in variables, lists, and dictionaries. I've learned how to iterate through basic data structures. And I've learned how to debug along the way. Using all of this that I've learned, try to break down my tasks into discrete mini-objectives.
 
 The datasets for these Challenges are quite large. This was done purposefully to showcase one of the limits of Excel-based analysis. As data analysts, our first instinct is often to go straight to Excel, but creating scripts in Python can provide us with more powerful options for handling big data.
 
 Write one script for each of the provided datasets. Run each script separately to make sure that the code works for its respective dataset.
 
-Always commit your work and back it up with pushes to GitHub or GitLab. You don't want to lose hours of your hard work! Also make sure that your repo has a detailed README.md file.
+Always commit your work and back it up with pushes to GitHub. You don't want to lose hours of your hard work! Also make sure that your repo has a detailed README.md file.
 
 ## References
 
