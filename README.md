@@ -9,69 +9,70 @@ Before starting the assignment, the following steps needs to be completed:
 
 Before diving into the assignment, I followed these preparatory steps:
 
-Repository Setup: Created a new repository named python-challenge.
-Cloning the Repository: Cloned the repository to my local machine.
-Directory Structure: Created two folders within the repository: PyBank and PyPoll.
-File Preparation: Within each folder, added:
-main.py: The main script for the analysis.
-Resources folder: Contained the necessary CSV files.
-analysis folder: Held the text file with the results of the analysis.
-Pushing Changes: Committed and pushed these changes to GitHub/GitLab.
+1. Repository Setup: Created a new repository named python-challenge.
+2. Cloning the Repository: Cloned the repository to my local machine.
+3. Directory Structure: Created two folders within the repository: PyBank and PyPoll.
+4. File Preparation: Within each folder, added:
+   - main.py: The main script for the analysis.
+   - Resources folder: Contained the necessary CSV files.
+   - analysis folder: Held the text file with the results of the analysis.
+5. Pushing Changes: Committed and pushed these changes to GitHub/GitLab.
 
 ## PyBank Instructions
 ![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/61f50316-2b03-4faa-8243-829f36d611bc)
 
-In this Challenge, I was tasked with creating a Python script to analyze the financial records of your company. I was given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
+Objective
+ Develop a Python script to analyze financial records in a dataset named budget_data.csv, containing two columns: "Date" and "Profit/Losses".
 
-My task was to create a Python script that analyzes the records to calculate each of the following values:
+Tasks
+- Calculate the total number of months included in the dataset.
+- Compute the net total amount of "Profit/Losses" over the period.
+- Calculate the changes in "Profit/Losses" over the period and find the average of these changes.
+- Identify the greatest increase in profits (date and amount).
+- Identify the greatest decrease in profits (date and amount).
 
-- The total number of months included in the dataset
-
-- The net total amount of "Profit/Losses" over the entire period
-
-- The changes in "Profit/Losses" over the entire period, and then the average of those changes
-
-- The greatest increase in profits (date and amount) over the entire period
-
-- The greatest decrease in profits (date and amount) over the entire period
+Deliverables
+- Print the analysis results to the terminal.
+- Export a text file with the analysis results.
 
 My analysis should align with the following results:
 
 ![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/86d159f9-65ec-4f9b-827c-a4a237da4904)
 
-In addition, my final script should both print the analysis to the terminal and export a text file with the results.
 
 ## PyPoll Instructions
 ![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/5b1c4131-45be-4bf7-8541-12fbcad1ab80)
 
-In this Challenge, I am tasked with helping a small, rural town modernize its vote-counting process.
+Objective
+Create a Python script to modernize the vote-counting process using data from election_data.csv, which contains "Voter ID", "County", and "Candidate" columns.
 
-I will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". My task was to create a Python script that analyzes the votes and calculates each of the following values:
+Tasks
+- Determine the total number of votes cast.
+- Generate a complete list of candidates who received votes.
+- Calculate the percentage of votes each candidate received.
+- Calculate the total number of votes each candidate received.
+- Identify the winner of the election based on the popular vote.
 
-- The total number of votes cast
+Deliverables
+- Print the analysis results to the terminal.
+- Export a text file with the analysis results.
 
-- A complete list of candidates who received votes
-
-- The percentage of votes each candidate won
-
-- The total number of votes each candidate won
-
-- The winner of the election based on popular vote
-
-Your analysis should align with the following results:
+My analysis should align with the following results:
 
 ![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/7a597f23-2b85-416b-8572-9ad7e6f9bc41)
 
-In addition, my final script should both print the analysis to the terminal and export a text file with the results.
-
 ## Hints and Considerations
-Considering what I have learned so far. I've learned how to import modules like csv. I've learned how to read and write files in various formats. I've learned how to store content in variables, lists, and dictionaries. I've learned how to iterate through basic data structures. And I've learned how to debug along the way. Using all of this that I've learned, try to break down my tasks into discrete mini-objectives.
+- Use Python modules like csv for file handling.
+- Utilize data structures such as variables, lists, and dictionaries for data storage and manipulation.
+- Employ iteration for processing data.
+- Debug the scripts to ensure accuracy.
+- Handle large datasets efficiently, showcasing the limitations of Excel and the advantages of Python scripting.
 
-The datasets for these Challenges are quite large. This was done purposefully to showcase one of the limits of Excel-based analysis. As data analysts, our first instinct is often to go straight to Excel, but creating scripts in Python can provide us with more powerful options for handling big data.
-
-Wrote one script for each of the provided datasets. Ran each script separately to make sure that the code works for its respective dataset.
-
-Always commit your work and back it up with pushes to GitHub. You don't want to lose hours of your hard work! Also make sure that your repo has a detailed README.md file.
+Workflow
+1. Script Development: Write separate scripts for each dataset.
+2. Testing: Run each script individually to verify functionality.
+3. Version Control: Commit work regularly and push changes to GitHub to prevent data loss.
+4. Documentation: Ensure the repository includes a comprehensive README.md file detailing the project.
 
 ## References
 
