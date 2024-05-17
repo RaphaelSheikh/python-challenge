@@ -2,26 +2,21 @@
 
 ## Background
 
-It's time to put away the Excel sheet and enter the world of programming with Python. In this assignment, I used the concepts I've learned to complete two Python challenges, PyBank and PyPoll. Both tasks present a real-world situation where my newly developed Python scripting skills come in handy.
+Transitioning from using Excel to programming with Python, I've undertaken an assignment involving two Python challenges: PyBank and PyPoll. These tasks are designed to apply my new Python scripting skills to real-world scenarios.
 
 ## Before I Begin
 Before starting the assignment, the following steps needs to be completed:
 
-1. Create a new repository for this project called python-challenge.
+Before diving into the assignment, I followed these preparatory steps:
 
-2. Clone the new repository to your computer.
-
-3. Inside your local Git repository, create a folder for each Python assignment and name them PyBank and PyPoll.
-
-4. In each folder that you just created, add the following content:
-
-5. A new file called main.py. This will be the main script to run for each analysis.
-
-6. A Resources folder that contains the CSV files you used. Make sure that your script has the correct path to the CSV file.
-
-7. An analysis folder that contains your text file that has the results from your analysis.
-
-8. Push these changes to GitHub or GitLab.
+Repository Setup: Created a new repository named python-challenge.
+Cloning the Repository: Cloned the repository to my local machine.
+Directory Structure: Created two folders within the repository: PyBank and PyPoll.
+File Preparation: Within each folder, added:
+main.py: The main script for the analysis.
+Resources folder: Contained the necessary CSV files.
+analysis folder: Held the text file with the results of the analysis.
+Pushing Changes: Committed and pushed these changes to GitHub/GitLab.
 
 ## PyBank Instructions
 ![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/61f50316-2b03-4faa-8243-829f36d611bc)
