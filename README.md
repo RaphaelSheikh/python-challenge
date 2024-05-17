@@ -22,6 +22,7 @@ Before diving into the assignment, I followed these preparatory steps:
 ![image](https://github.com/RaphaelSheikh/python-challenge/assets/166172978/61f50316-2b03-4faa-8243-829f36d611bc)
 
 Objective
+
 Develop a Python script to analyze financial records in a dataset named budget_data.csv, containing two columns: "Date" and "Profit/Losses".
 
 Tasks
