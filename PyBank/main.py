@@ -65,7 +65,7 @@ print(f"Greatest Increase in Profits: {greatest_date} (${str(greatest_increase)}
 print(f"Greatest Decrease in Profits: {worst_date} (${str(greatest_decrease)})")
 
 #Exporting to .txt file
-output = open("PyBank/analysis/output.txt", "w")
+output = open("analysis/output.txt", "w")
 
 line1 = "Financial Analysis"
 line2 = "---------------------"
