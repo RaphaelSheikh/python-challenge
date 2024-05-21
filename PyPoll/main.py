@@ -3,7 +3,7 @@ import os
 import csv
 
 #Creating an object out of the CSV file
-election_data = os.path.join("PyPoll/Resources/election_data.csv")
+election_data = os.path.join("Resources/election_data.csv")
 
 # A list to capture the names of candidates
 candidates = []
@@ -62,7 +62,7 @@ print(f"Winner: {winning_candidate}")
 print("--------------------------")
 
 # Exporting to .txt file
-output = open("PyPoll/analysis/output.txt", "w")
+output = open("analysis/output.txt", "w")
 line1 = "Election Results"
 line2 = "--------------------------"
 line3 = str(f"Total Votes: {str(total_votes)}")
